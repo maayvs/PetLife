@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/SEpqFI7.png" width="1024px"/>
 <h2>Aprendizados</h2>
 <ul>
-  <li>Postion</li>
+  <li>Position</li>
   <li>Estilizações de background</li>
   <li>Function</li>
   <li>Eventos de click</li>
