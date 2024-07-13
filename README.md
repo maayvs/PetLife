@@ -10,7 +10,7 @@
 </p>
 
 <h2>Modelo do Projeto</h2>
-<img src="https://i.imgur.com/SEpqFI7.png" width="900px"/>
+<img src="https://i.imgur.com/SEpqFI7.png" width="1024px"/>
 <h2>Aprendizados</h2>
 <ul>
   <li>Postion</li>
